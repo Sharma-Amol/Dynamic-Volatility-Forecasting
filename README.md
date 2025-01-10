@@ -15,7 +15,7 @@
 ## Summary
 The project titled "Dynamic Volatility Forecasting for Risk Management and Derivatives Valuation: EWMA and GARCH (1,1) Approaches" focuses on advanced volatility estimation techniques and their practical applications in derivatives valuation and risk management. Recognizing volatility as a critical, yet non-directly observable input in option pricing, this study employs econometric models to forecast volatility effectively.
 
- Using EWMA and GARCH (1,1) models, I estimated the volatility of the Nifty50 index, validating the findings through rigorous econometric tests. The estimated daily volatility was then utilized to price call and put options on the Nifty50 index (using Binomial Black-Scholes and Monte Carlo method), with implied volatility calculated to compare model-based estimates against market-implied values. 
+ Using EWMA and GARCH (1,1) models, I estimated the volatility of the Nifty50 index, validating the findings through rigorous econometric tests. The estimated daily volatility was then utilized to price call and put options on the Nifty50 index (using Binomial, Black-Scholes and Monte Carlo method), with implied volatility calculated to compare model-based estimates against market-implied values. 
  
 Furthermore, I applied the volatility forecasts to a stock's returns to calculate Value at Risk (VaR) for a single-stock portfolio using a model-building approach. This study underscores the importance of accurate volatility estimation in pricing derivatives and effectively managing portfolio risk
 
